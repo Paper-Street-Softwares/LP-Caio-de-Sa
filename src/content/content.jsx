@@ -410,35 +410,38 @@ const content = {
       labelX: "Siga-me no X",
       paragraph: (
         <div>
-          A Caio de Sá – Advocacia e Consultoria Jurídica nasceu da atuação
-          direta na linha de frente da negociação bancária e do contencioso de
-          massa. Com experiência tanto na defesa de grandes instituições quanto
-          na proteção dos direitos dos consumidores, construímos uma base sólida
-          de conhecimento técnico e visão estratégica.
+          Fui militar do Exército Brasileiro, da arma de Comunicações, tendo
+          servido em 2012. Essa vivência dentro da caserna me deu uma visão real
+          das necessidades e dificuldades enfrentadas por quem dedica sua vida à
+          proteção do país.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          A Caio de Sá – Advocacia e Consultoria Jurídica nasceu da atuação
-          direta na linha de frente da negociação bancária e do contencioso de
-          massa. Com experiência tanto na defesa de grandes instituições quanto
-          na proteção dos direitos dos consumidores, construímos uma base sólida
-          de conhecimento técnico e visão estratégica.
+          Fui militar do Exército Brasileiro, da arma de Comunicações, tendo
+          servido em 2012. Essa vivência dentro da caserna me deu uma visão real
+          das necessidades e dificuldades enfrentadas por quem dedica sua vida à
+          proteção do país.
           <br />
           <br />
-          Essa vivência nos dois lados do balcão nos permitiu desenvolver uma
-          advocacia diferenciada: personalizada, eficiente e centrada em
-          resultados. O atendimento é direto com o advogado, garantindo clareza,
-          confiança e soluções sob medida para cada cliente.
+          Após deixar a força, decidi seguir um novo caminho: o Direito.
+          Graduei-me em Direito e, com o tempo, compreendi que minha verdadeira
+          vocação estava em defender aqueles que servem — dentro ou fora da
+          ativa. Por isso, me especializei com pós-graduação em Direito Militar,
+          voltando meu trabalho exclusivamente para essa área.
           <br />
           <br />
-          Nosso compromisso é oferecer um serviço jurídico que vai além do
-          convencional — com atuação firme, petições bem fundamentadas e
-          linguagem acessível. Atuamos com técnica, ética e proximidade,
-          buscando a verdadeira justiça em cada causa.
+          Atuo em demandas que exigem sensibilidade, técnica e firmeza — como
+          reintegrações por problemas psicológicos, defesas em PADs, exclusões
+          indevidas e crimes militares. Tenho como missão oferecer uma advocacia
+          humana, estratégica e especializada, que compreenda a realidade da
+          vida militar e enfrente as injustiças com seriedade.
           <br />
           <br />
+          Hoje, com atendimento nacional, ofereço suporte jurídico a militares
+          das Forças Armadas e das forças auxiliares, com foco em resultados
+          concretos e defesa intransigente dos seus direitos.
         </p>
       ),
       ctaButtonAriaLabel: "Botão para entrar em contato",
