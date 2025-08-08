@@ -96,7 +96,7 @@ export const infos = {
     </div>
   ),
   obs: <span className="italic">A Definir</span>,
-  instagramProfile: "adv.caiodesa", // Sem o @
+  instagramProfile: "caioadv.militar", // Sem o @
   facebookProfile: "csaadvocacia4.wordpress.com",
   linkeDinProfile: "csaadvocacia4.wordpress.com",
   x: "csaadvocacia4.wordpress.com",
@@ -200,8 +200,8 @@ const content = {
       imgDivisor: imgDivisor,
       card1: {
         img: featuresImg1,
-        title: "Direito Cível",
-        subtitle: "Soluções jurídicas em conflitos civis e obrigações.",
+        title: "Reintegração ",
+        subtitle: "Defesa para retorno ao cargo ou função militar.",
         description: (
           <div>
             csaadvocacia4.wordpress.com
@@ -236,8 +236,8 @@ const content = {
       },
       card2: {
         img: featuresImg2,
-        title: "Direito Bancário",
-        subtitle: "Defesa em cobranças abusivas e revisão de contratos.",
+        title: "PADs (Processos Administrativos Disciplinares)",
+        subtitle: "Atuação em defesa em processos disciplinares.",
         description: (
           <div>
             csaadvocacia4.wordpress.com
@@ -270,12 +270,8 @@ const content = {
       },
       card3: {
         img: featuresImg3,
-        title: (
-          <p>
-            Contratos <i>inter partes</i>
-          </p>
-        ),
-        subtitle: "Elaboração e análise de contratos entre partes.",
+        title: <p>Exclusão por problemas psicológicos </p>,
+        subtitle: "Apoio jurídico em casos de afastamento por saúde.",
         description: (
           <div>
             csaadvocacia4.wordpress.com <br />
@@ -309,8 +305,8 @@ const content = {
       },
       card4: {
         img: featuresImg4,
-        title: "Direito do Consumidor",
-        subtitle: "Atuação em casos de abuso ou falha na prestação.",
+        title: "Crimes militares e defesa técnica",
+        subtitle: "Defesa especializada em crimes previstos no CPM.",
         description: (
           <div>
             csaadvocacia4.wordpress.com
@@ -414,35 +410,38 @@ const content = {
       labelX: "Siga-me no X",
       paragraph: (
         <div>
-          A Caio de Sá – Advocacia e Consultoria Jurídica nasceu da atuação
-          direta na linha de frente da negociação bancária e do contencioso de
-          massa. Com experiência tanto na defesa de grandes instituições quanto
-          na proteção dos direitos dos consumidores, construímos uma base sólida
-          de conhecimento técnico e visão estratégica.
+          Fui militar do Exército Brasileiro, da arma de Comunicações, tendo
+          servido em 2012. Essa vivência dentro da caserna me deu uma visão real
+          das necessidades e dificuldades enfrentadas por quem dedica sua vida à
+          proteção do país.
         </div>
       ),
       buttonModalLabelAbout: "Continuar lendo",
       modal: (
         <p>
-          A Caio de Sá – Advocacia e Consultoria Jurídica nasceu da atuação
-          direta na linha de frente da negociação bancária e do contencioso de
-          massa. Com experiência tanto na defesa de grandes instituições quanto
-          na proteção dos direitos dos consumidores, construímos uma base sólida
-          de conhecimento técnico e visão estratégica.
+          Fui militar do Exército Brasileiro, da arma de Comunicações, tendo
+          servido em 2012. Essa vivência dentro da caserna me deu uma visão real
+          das necessidades e dificuldades enfrentadas por quem dedica sua vida à
+          proteção do país.
           <br />
           <br />
-          Essa vivência nos dois lados do balcão nos permitiu desenvolver uma
-          advocacia diferenciada: personalizada, eficiente e centrada em
-          resultados. O atendimento é direto com o advogado, garantindo clareza,
-          confiança e soluções sob medida para cada cliente.
+          Após deixar a força, decidi seguir um novo caminho: o Direito.
+          Graduei-me em Direito e, com o tempo, compreendi que minha verdadeira
+          vocação estava em defender aqueles que servem — dentro ou fora da
+          ativa. Por isso, me especializei com pós-graduação em Direito Militar,
+          voltando meu trabalho exclusivamente para essa área.
           <br />
           <br />
-          Nosso compromisso é oferecer um serviço jurídico que vai além do
-          convencional — com atuação firme, petições bem fundamentadas e
-          linguagem acessível. Atuamos com técnica, ética e proximidade,
-          buscando a verdadeira justiça em cada causa.
+          Atuo em demandas que exigem sensibilidade, técnica e firmeza — como
+          reintegrações por problemas psicológicos, defesas em PADs, exclusões
+          indevidas e crimes militares. Tenho como missão oferecer uma advocacia
+          humana, estratégica e especializada, que compreenda a realidade da
+          vida militar e enfrente as injustiças com seriedade.
           <br />
           <br />
+          Hoje, com atendimento nacional, ofereço suporte jurídico a militares
+          das Forças Armadas e das forças auxiliares, com foco em resultados
+          concretos e defesa intransigente dos seus direitos.
         </p>
       ),
       ctaButtonAriaLabel: "Botão para entrar em contato",
