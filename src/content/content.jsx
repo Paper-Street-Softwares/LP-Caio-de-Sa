@@ -96,7 +96,7 @@ export const infos = {
     </div>
   ),
   obs: <span className="italic">A Definir</span>,
-  instagramProfile: "adv.caiodesa", // Sem o @
+  instagramProfile: "caioadv.militar", // Sem o @
   facebookProfile: "csaadvocacia4.wordpress.com",
   linkeDinProfile: "csaadvocacia4.wordpress.com",
   x: "csaadvocacia4.wordpress.com",
@@ -200,8 +200,8 @@ const content = {
       imgDivisor: imgDivisor,
       card1: {
         img: featuresImg1,
-        title: "Direito Cível",
-        subtitle: "Soluções jurídicas em conflitos civis e obrigações.",
+        title: "Reintegração ",
+        subtitle: "Defesa para retorno ao cargo ou função militar.",
         description: (
           <div>
             csaadvocacia4.wordpress.com
@@ -236,8 +236,8 @@ const content = {
       },
       card2: {
         img: featuresImg2,
-        title: "Direito Bancário",
-        subtitle: "Defesa em cobranças abusivas e revisão de contratos.",
+        title: "PADs (Processos Administrativos Disciplinares)",
+        subtitle: "Atuação em defesa em processos disciplinares.",
         description: (
           <div>
             csaadvocacia4.wordpress.com
@@ -270,12 +270,8 @@ const content = {
       },
       card3: {
         img: featuresImg3,
-        title: (
-          <p>
-            Contratos <i>inter partes</i>
-          </p>
-        ),
-        subtitle: "Elaboração e análise de contratos entre partes.",
+        title: <p>Exclusão por problemas psicológicos </p>,
+        subtitle: "Apoio jurídico em casos de afastamento por saúde.",
         description: (
           <div>
             csaadvocacia4.wordpress.com <br />
@@ -309,8 +305,8 @@ const content = {
       },
       card4: {
         img: featuresImg4,
-        title: "Direito do Consumidor",
-        subtitle: "Atuação em casos de abuso ou falha na prestação.",
+        title: "Crimes militares e defesa técnica",
+        subtitle: "Defesa especializada em crimes previstos no CPM.",
         description: (
           <div>
             csaadvocacia4.wordpress.com
