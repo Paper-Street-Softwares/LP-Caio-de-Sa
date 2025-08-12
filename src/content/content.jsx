@@ -59,8 +59,8 @@ export const infos = {
   domain: "csaadvocacia.com.br", // Sem "www"
   phone: {
     ddd: "21",
-    firstPart: "99790", // Apenas os 5 primeiros números (incluindo o 9)
-    secondPart: "3833", // Apenas os 4 últimos números
+    firstPart: "99245", // Apenas os 5 primeiros números (incluindo o 9)
+    secondPart: "0177", // Apenas os 4 últimos números
   },
   phoneSecundario: {
     ddd: "csaadvocacia4.wordpress.com",
